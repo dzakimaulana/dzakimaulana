@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i'm have passionate in CyberSecurity and Cloud Computing
+Hi, i'm have interest in Cyber Security and Cloud Computing
 
 
 ## 🌐 Socials:
