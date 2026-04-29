@@ -2,7 +2,7 @@
 
 ## About Me
 
-I think like an attacker and build like a defender. Working across **penetration testing**, **SOC automation**, and **cloud security** — from web & mobile VAPT to SIEM pipelines and threat detection on GCP & AWS.
+I think like an attacker and build like a defender. Working across **penetration testing**, **SOC automation**, and **cloud security** spanning web and mobile VAPT, SIEM pipelines, and threat detection on GCP and AWS.
 
 ## Tools & Stack
 
