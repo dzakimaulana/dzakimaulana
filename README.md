@@ -1,69 +1,24 @@
-# Hey, I'm Dzaki 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Hey%2C+I'm+Dzaki+%F0%9F%91%8B;Penetration+Tester+%7C+SOC+Engineer;Red+%26+Blue+Team+Security)](https://git.io/typing-svg)
 
-I think like an attacker and build like a defender — from breaking web and mobile apps to automating SOC workflows, I work both sides of the security stack.
+## About Me
 
----
-
-## What I Do
-
-- 🔴 **Penetration Testing** — web & mobile VAPT using OWASP WSTG, static & dynamic analysis
-- 🔴 **Red Teaming** — adversary simulation, building vulnerable labs, offensive tooling
-- 🔵 **SOC Automation** — n8n workflows, SIEM implementation, threat detection pipelines
-- ☁️ **Cloud Security** — Wazuh on GCP, High Availability on AWS, infrastructure hardening
-- 🏴 **CTF** — HackTheBox player, formerly led CTF training for 20 teams
-
----
+I think like an attacker and build like a defender. Working across **penetration testing**, **SOC automation**, and **cloud security** — from web & mobile VAPT to SIEM pipelines and threat detection on GCP & AWS.
 
 ## Tools & Stack
 
-**Security**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white)
-![JADX](https://img.shields.io/badge/JADX-4A4A4A?style=for-the-badge&logoColor=white)
-![MobSF](https://img.shields.io/badge/MobSF-6A1B9A?style=for-the-badge&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=python,bash,docker,aws,gcp,ansible,linux,kali&perline=8)](https://skillicons.dev)
 
-**Automation & Infrastructure**  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
-
-**Cloud**  
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-## Certifications
-
-- **Certified Red Team Analyst** (2025)
-- **Certified Cyber Security Analyst** (2025)
-- **Google Cloud Cybersecurity Certificate** (2024)
-
----
-
-## Featured Project
-
-[![Wazuh Daily Brief](https://github-readme-stats.vercel.app/api/pin/?username=dzakimaulana&repo=wazuh-daily-brief&theme=graywhite&hide_border=false)](https://github.com/dzakimaulana/wazuh-daily-brief)
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dzakimaulana&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dzakimaulana&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakimaulana&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
+![JADX](https://img.shields.io/badge/JADX-4A4A4A?style=flat-square&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-6A1B9A?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF6C00?style=flat-square&logo=n8n&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzakimaulanaasif)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dzakiimaulana_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakimaulanaasif334@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzakimaulanaasif)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dzakiimaulana_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dzakimaulanaasif334@gmail.com)
