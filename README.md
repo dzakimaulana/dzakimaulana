@@ -1,18 +1,69 @@
-# 💫 About Me:
-Hi, i'm have interest in Cyber Security and Cloud Computing
+# Hey, I'm Dzaki 👋
 
+I think like an attacker and build like a defender — from breaking web and mobile apps to automating SOC workflows, I work both sides of the security stack.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dzakiimaulana_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dzakimaulanaasif) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kymmsenpai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kymmsenpai) 
+---
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-# 📊 GitHub Stats:
+## What I Do
+
+- 🔴 **Penetration Testing** — web & mobile VAPT using OWASP WSTG, static & dynamic analysis
+- 🔴 **Red Teaming** — adversary simulation, building vulnerable labs, offensive tooling
+- 🔵 **SOC Automation** — n8n workflows, SIEM implementation, threat detection pipelines
+- ☁️ **Cloud Security** — Wazuh on GCP, High Availability on AWS, infrastructure hardening
+- 🏴 **CTF** — HackTheBox player, formerly led CTF training for 20 teams
+
+---
+
+## Tools & Stack
+
+**Security**  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white)
+![JADX](https://img.shields.io/badge/JADX-4A4A4A?style=for-the-badge&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-6A1B9A?style=for-the-badge&logoColor=white)
+
+**Automation & Infrastructure**  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
+
+**Cloud**  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## Certifications
+
+- **Certified Red Team Analyst** (2025)
+- **Certified Cyber Security Analyst** (2025)
+- **Google Cloud Cybersecurity Certificate** (2024)
+
+---
+
+## Featured Project
+
+[![Wazuh Daily Brief](https://github-readme-stats.vercel.app/api/pin/?username=dzakimaulana&repo=wazuh-daily-brief&theme=graywhite&hide_border=false)](https://github.com/dzakimaulana/wazuh-daily-brief)
+
+---
+
+## GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=dzakimaulana&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dzakimaulana&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakimaulana&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzakimaulanaasif)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dzakiimaulana_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakimaulanaasif334@gmail.com)
